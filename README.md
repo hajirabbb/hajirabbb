@@ -1,7 +1,6 @@
-<p align = "center">
-<img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=30&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hajira+👋;Aspiring+Fullstack+Developer;Tech+Enthusiast;Learning+and+Building+Every+Day"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=30&center=true&vCenter=true&width=700&lines=Hi,+I+am+Hajira;Aspiring+Fullstack+Developer;Tech+Enthusiast;Learning+and+Building+Every+Day"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hajirabbb&label=Profile%20views&color=ff8c00&style=flat" />
 </p>
