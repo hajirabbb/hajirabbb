@@ -50,7 +50,7 @@
 
 [![Hajira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hajirabbb&bg_color=0d1117&color=ff8c00&line=ff8c00&point=ffb347&area=true&hide_border=true)](https://github.com/hajirabbb)
 
-## 💬 Thanks for Visiting My Profile
+<img src="./wave.svg" width="100%" />
 
 <p align="center">
   <b>Thanks for visiting my profile 🧡</b><br>
