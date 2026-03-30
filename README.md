@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=hajirabbb&label=Profile%20views&color=ff8c00&style=flat" />
 </p>
 
-<img src="./wave.svg" width="100%" />
 
 <h2 align="center">🧡 About Me</h2>
 
@@ -41,8 +40,7 @@
   </tr>
 </table>
 
-<br>
-<img src="./wave.svg" width="100%" />
+
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -67,8 +65,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<br>
-<img src="./wave.svg" width="100%" />
+
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
