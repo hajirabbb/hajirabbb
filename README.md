@@ -1,8 +1,14 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=30&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hajira+👋;Aspiring+Fullstack+Developer;Tech+Enthusiast;Learning+and+Building+Every+Day)
+<p align = "center">
+<img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=30&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hajira+👋;Aspiring+Fullstack+Developer;Tech+Enthusiast;Learning+and+Building+Every+Day"/>
+</p>
 
 ## About Me
   I’m interested in backend development students learning to build scalable website, looking forward to collaborating on frontend and backend projects.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hajirabbb&label=Profile%20views&color=ff8c00&style=flat" />
+</p>
+---
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -19,14 +25,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+---
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-olive-two-22.vercel.app/api?username=hajirabbb&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-olive-two-22.vercel.app/api?username=hajirabbb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-olive-two-22.vercel.app/api/top-langs/?username=hajirabbb&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats-olive-two-22.vercel.app/api/top-langs/?username=hajirabbb&layout=compact&theme=tokyonight)
-
-
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajira_Baffoe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajira-baffoe-40ba2a219)
