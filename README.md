@@ -9,7 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=hajirabbb&label=Profile%20views&color=ff8c00&style=flat" />
 </p>
 
----
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajira_Baffoe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajira-baffoe-40ba2a219)
+
+
 ## Tech Stack
 
 ### Frontend
@@ -27,14 +30,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hajirabbb&theme=tokyonight&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" />
 </p>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -43,7 +46,18 @@
   <img src="https://github-readme-stats-olive-two-22.vercel.app/api/top-langs/?username=hajirabbb&layout=compact&theme=tokyonight" />
 </p>
 
----
+## 📈 Contribution Graph
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajira_Baffoe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajira-baffoe-40ba2a219)
+[![Hajira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hajirabbb&bg_color=0d1117&color=ff8c00&line=ff8c00&point=ffb347&area=true&hide_border=true)](https://github.com/hajirabbb)
+
+## 💬 Thanks for Visiting My Profile
+
+<p align="center">
+  <b>Thanks for visiting my profile 🧡</b><br>
+  I'm glad you're here — feel free to check out my work and connect with me!
+</p>
+
+
+
+
+
