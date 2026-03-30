@@ -8,7 +8,9 @@
 - 😄 Pronouns: She/Her  
 - 🎤 Fun fact: I love singing!
   
-- ## 📊 GitHub Stats
 
-![Hajira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajirabbb&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajirabbb&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hajirabbb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hajirabbb&layout=compact&theme=tokyonight)
