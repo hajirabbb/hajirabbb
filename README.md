@@ -7,3 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hajira-baffoe-40ba2a219)  
 - 😄 Pronouns: She/Her  
 - 🎤 Fun fact: I love singing!
+  
+- ## 📊 GitHub Stats
+
+![Hajira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajirabbb&show_icons=true&theme=radical)
