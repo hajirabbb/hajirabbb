@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF8C00&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hajira;Aspiring+Fullstack+Developer;Tech+Enthusiast;Continuously+Improving+My+Skills)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FF8C00&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hajira;Aspiring+Fullstack+Developer;Tech+Enthusiast;Continuously+Improving+My+Skills)
 
 ## About Me
 - 💻 I’m interested in backend development  
