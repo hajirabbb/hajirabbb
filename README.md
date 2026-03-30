@@ -1,6 +1,4 @@
-# Hi, I'm Hajira 👋
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Enthusiast;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF8C00&size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hajira;Aspiring+Fullstack+Developer;Tech+Enthusiast;Always+Learning)
 
 ## About Me
 - 💻 I’m interested in backend development  
